@@ -1,0 +1,1 @@
+ I first read about Bandit game , its different levels, how to clear each level and so on. First i learned different commands on how to log into the game using SSH port . Initially i learned and understood how to clear the game in a smooth manner untill level 5. After that level the game became intresting and thus i learned many terminal commands. 
