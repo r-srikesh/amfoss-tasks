@@ -1,0 +1,1 @@
+As i followed the instructions given by CS50 i found the terminal commands used in cs50 IDE were much similar to linux terminal with commands like cd , ls and so on. I found it useful while doing their problem sets.
