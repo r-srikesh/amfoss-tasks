@@ -8,4 +8,4 @@
    I will help those who want to learn with all of my knowledge 
    and will help in any mannner for the success of this club.
 4.  **Do you have any feedback for the selection process?** 
-   I found these tasks very engaging , and were very helpful for me since i could learn many things while doing these tasks . Even though i couldn't complete many tasks , I can say that i really loved this selection process since seniors help me when i was stuck at some point.
+   I found these tasks very engaging and challenging  and were very helpful for me since i could learn many things while doing these tasks . Even though i couldn't complete many tasks , I can say that i really loved this selection process since seniors help me when i was stuck at some point.
