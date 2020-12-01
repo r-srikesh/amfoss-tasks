@@ -7,6 +7,7 @@ Task      |       Description
 [Task-02](https://github.com/srikesh316/amfoss-tasks/tree/master/task-2)|Registering in IRC Freenode
 [Task-11](https://github.com/srikesh316/amfoss-tasks/tree/master/task-11)|Poster Design
 [Task-14](https://github.com/srikesh316/amfoss-tasks/tree/master/task-14)|Bandit (An OverTheWire Web game)
+[Task-10](https://github.com/srikesh316/amfoss-tasks/tree/master/task-10)|CS50 (pending)
 
 
 
