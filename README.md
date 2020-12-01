@@ -3,4 +3,4 @@ This is Srikesh , fresher at Amrita Vishwa Vidyapeetham (CSE-2020)
 
 | Task    | Description  | 
 | :---:   | :-:          |
-| Seconds | 301          |  
+| Task-0  | Installing Ubuntu         |  
