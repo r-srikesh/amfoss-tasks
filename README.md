@@ -8,6 +8,5 @@ Task      |       Description
 [Task-11](https://github.com/srikesh316/amfoss-tasks/tree/master/task-11)|Poster Design
 [Task-14](https://github.com/srikesh316/amfoss-tasks/tree/master/task-14)|Bandit (An OverTheWire Web game)
 [Task-10](https://github.com/srikesh316/amfoss-tasks/tree/master/task-10)|CS50 (pending)
-
-
-
+[Task-12](https://github.com/r-srikesh/amfoss-tasks/tree/master/task-12)|If maths was fun
+[Task-15](https://github.com/r-srikesh/amfoss-tasks/tree/master/task-15)|Project Euler (completed 3 out of 5)
