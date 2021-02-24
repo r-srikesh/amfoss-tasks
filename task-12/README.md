@@ -2,4 +2,4 @@
 
 
 
-Solutions for Task-12 (CODECHEF).
+Solutions for If maths was fun (Task-12) (CODECHEF).
