@@ -1,1 +1,1 @@
-Solution for Euler Challenge - Task-15 (Hackkerank)
+Solution for Project Euler Challenge - Task-15 (Hackkerank)
