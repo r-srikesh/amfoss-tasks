@@ -11,4 +11,4 @@ Task      |       Description
 [Task-12](https://github.com/r-srikesh/amfoss-tasks/tree/master/task-12)|If maths was fun
 [Task-15](https://github.com/r-srikesh/amfoss-tasks/tree/master/task-15)|Project Euler (completed 3 out of 5)
 [Task-09](https://github.com/r-srikesh/amfoss-tasks/tree/master/task-9)|Spammer_Spaghetti
-[Task-03](
+[Task-03](https://github.com/r-srikesh/amfoss-tasks/tree/master/task-3)|Programming
