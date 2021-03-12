@@ -12,3 +12,4 @@ Task      |       Description
 [Task-15](https://github.com/r-srikesh/amfoss-tasks/tree/master/task-15)|Project Euler (completed 3 out of 5)
 [Task-09](https://github.com/r-srikesh/amfoss-tasks/tree/master/task-9)|Spammer_Spaghetti
 [Task-03](https://github.com/r-srikesh/amfoss-tasks/tree/master/task-3)|Programming (pending)
+[Task-04](https://github.com/r-srikesh/amfoss-tasks/tree/master/task-4)|Debugging Derbies
