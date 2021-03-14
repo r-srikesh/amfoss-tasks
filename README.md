@@ -13,5 +13,8 @@ Task      |       Description
 [Task-12](https://github.com/r-srikesh/amfoss-tasks/tree/master/task-12)|If maths was fun
 [Task-14](https://github.com/srikesh316/amfoss-tasks/tree/master/task-14)|Bandit (An OverTheWire Web game)
 [Task-15](https://github.com/r-srikesh/amfoss-tasks/tree/master/task-15)|Project Euler (completed 3 out of 5)
+<hr />
 
-
+## About Myself
+My name is R.Srikesh. I was born and brought up in Chennai. I completed my entire school life at Amrita Vidyalayam, Chennai. I am coming from Non CS background.
+I love Maths and wish to improve myself in the field of Data Science and will work hard to achieve that and I truly believe that joining amFOSS  will help me to achieve that. Another reason as to why I need to join amFOSS is to improve my programming skills and learn new technologies.
