@@ -7,6 +7,7 @@ Task      |       Description
 [Task-02](https://github.com/srikesh316/amfoss-tasks/tree/master/task-2)|Registering in IRC Freenode
 [Task-03](https://github.com/r-srikesh/amfoss-tasks/tree/master/task-3)|Programming (pending)
 [Task-04](https://github.com/r-srikesh/amfoss-tasks/tree/master/task-4)|Debugging Derbies
+[Task-06](https://github.com/r-srikesh/amfoss-tasks/tree/master/task-6)|Geddit
 [Task-09](https://github.com/r-srikesh/amfoss-tasks/tree/master/task-9)|Spammer_Spaghetti
 [Task-10](https://github.com/srikesh316/amfoss-tasks/tree/master/task-10)|CS50 (pending)
 [Task-11](https://github.com/srikesh316/amfoss-tasks/tree/master/task-11)|Poster Design
