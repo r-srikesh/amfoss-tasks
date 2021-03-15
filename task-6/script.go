@@ -17,7 +17,7 @@ func main(){
 }
 
 func run() (err error) {
-	withCredentials := reddit.WithCredentials("pe*********A","	w8******************A","srikesh322", "*************")
+	withCredentials := reddit.WithCredentials("pe*********A","w8******************A","srikesh322", "*************")
 	client, _:= reddit.NewClient(withCredentials)
 
 	Subreddit, _,err := client.Subreddit.SearchNames(ctx,"memes")
