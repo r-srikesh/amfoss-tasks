@@ -2,7 +2,7 @@
 This is R.Srikesh , fresher at Amrita Vishwa Vidyapeetham (CSE-2020)
 Task      |       Description
 ----------|------------------------
-[Task-00](https://github.com/srikesh316/amfoss-tasks/tree/master/Task-0)|Installing Ubuntu
+[Task-00](https://github.com/r-srikesh/amfoss-tasks/tree/master/task-0)|Installing Ubuntu
 [Task-01](https://github.com/srikesh316/amfoss-tasks/tree/master/task-1)|Starring amFOSS repositories
 [Task-02](https://github.com/srikesh316/amfoss-tasks/tree/master/task-2)|Registering in IRC Freenode
 [Task-03](https://github.com/r-srikesh/amfoss-tasks/tree/master/task-3)|Programming (pending)
